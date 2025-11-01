@@ -5,7 +5,7 @@ import Sidebar from './components/Layout/Sidebar';
 import Footer from './components/Layout/Footer';
 import CourseTypeList from './components/CourseTypes/CourseTypeList';
 import CourseList from './components/Courses/CourseList';
-// import CourseOfferingList from './components/CourseOfferings/CourseOfferingList';
+import CourseOfferingList from './components/CourseOfferings/CourseOfferingList';
 import StudentRegistrationList from './components/StudentRegistrations/StudentRegistrationList';
 import { useLocalStorage } from './hooks/useLocalStorage';
 
